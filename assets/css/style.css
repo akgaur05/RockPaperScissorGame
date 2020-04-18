@@ -1,0 +1,16 @@
+#rpsimage{
+    height: 300px;
+    width: 300px;
+}
+.hrStyle
+{
+    border-top: 3px double #8c8b8b;
+}
+
+#userInput{
+    color: rgb(121, 27, 93);
+}
+
+#reset{
+    color: red;
+}
